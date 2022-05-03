@@ -32,11 +32,11 @@
   "homepage": "https://github.com/artcom/react-three-arjs#readme",
   "peerDependencies": {
     "@ar-js-org/ar.js": "^3.4.0",
-    "@react-three/fiber": "^7.0.27",
+    "@react-three/fiber": "^8.0.12",
     "buffer": "^6.0.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "three": "^0.139.2"
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "three": "^0.140.0"
   },
   "devDependencies": {
     "@ar-js-org/ar.js": "^3.4.0",
@@ -44,9 +44,9 @@
     "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
     "@babel/preset-react": "^7.12.13",
-    "@react-three/fiber": "^7.0.27",
+    "@react-three/fiber": "^8.0.12",
     "buffer": "^6.0.3",
-    "core-js": "^3.21.1",
+    "core-js": "^3.22.4",
     "eslint": "^8.13.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-compat": "^4.0.2",
@@ -55,8 +55,8 @@
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.6.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "three": "^0.139.2"
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "three": "^0.140.0"
   }
 }

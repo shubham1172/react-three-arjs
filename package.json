@@ -1,7 +1,8 @@
 {
   "name": "@artcom/react-three-arjs",
   "version": "0.4.0",
-  "description": "AR.js with react-three-fiber ",
+  "description": "AR.js with react-three-fiber",
+  "types": "types/index.d.ts",
   "main": "lib/index.js",
   "files": [
     "lib/"
